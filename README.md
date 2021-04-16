@@ -1,5 +1,6 @@
 # taller-URJC-mlflow
-Material para el taller de MLflow el 24/04/2020 en la URJC (online)
+
+Material para el taller de MLflow en la URJC (online)
 
 0. Crear entorno para el taller
     1. `crear_entorno.sh` - Instrucciones para crear el entorno de trabajo del taller
